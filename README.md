@@ -124,7 +124,7 @@ plt.show()
 ![image](https://github.com/Pravinrajj/convolutional-denoising-autoencoder/assets/117917674/68a7d675-2579-442c-8376-00787a0a94c7)
 
 ### Original vs Noisy Vs Reconstructed Image
-![image](https://github.com/Pravinrajj/convolutional-denoising-autoencoder/assets/117917674/a0c52eae-6d42-49ae-b9b0-462cd7ad4d04)
+![image](https://github.com/Pravinrajj/convolutional-denoising-autoencoder/assets/117917674/a0420ea6-5ace-40bb-93f1-8d91ac47c3dd)
 
 ## RESULT
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
